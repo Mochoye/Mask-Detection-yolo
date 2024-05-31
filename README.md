@@ -19,7 +19,6 @@ To install the necessary dependencies, follow these steps:
 ```bash
 git clone https://github.com/Mochoye/Mask-Detection-yolo
 cd Mask-Detection-yolo
-pip install -r requirements.txt
 ```
 ## Dataset
 

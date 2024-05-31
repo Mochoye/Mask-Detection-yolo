@@ -58,6 +58,29 @@ https://github.com/Mochoye/Mask-Detection-yolo/assets/95351969/1133f96f-44c6-413
 ![d322dea2-138f-4ac2-895a-a420![534a97da-808a-44af-bcde-c55ba06b023e](https://github.com/Mochoye/Mask-Detection-yolo/assets/95351969/7a49af5e-51cc-4186-811e-cc9b0a1c56d1)
 ![d322dea2-138f-4ac2-895a-a420f3f7be55](https://github.com/Mochoye/Mask-Detection-yolo/assets/95351969/22bef6c4-9953-4f8c-ab88-0994c6c8bcc3)
 
+## Contributing to Mask Detection with YOLO
+
+To contribute to this project, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
+
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [@Mochoye](https://github.com/Mochoye) (Archisman Ray)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
 
